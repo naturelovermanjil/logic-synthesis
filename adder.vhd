@@ -5,7 +5,7 @@
 -- File       : adder.vhd
 -- Author     : Group 27: Tomas Rinne & Manjil Basnet
 -- Company    : TUT/DCS
--- Created    : 2008-11-28
+-- Created    : 2023-11-28
 -- Platform   : 
 -- Standard   : VHDL'87
 -------------------------------------------------------------------------------

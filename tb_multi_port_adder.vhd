@@ -5,7 +5,7 @@
 -- File       : tb_multi_port_adder.vhd
 -- Author     : Group 27: Tomas Rinne & Manjil Basnet
 -- Company    : TUT/DCS
--- Created    : 2023-12-28
+-- Created    : 2008-11-28
 -- Platform   : 
 -- Standard   : VHDL'87
 -------------------------------------------------------------------------------

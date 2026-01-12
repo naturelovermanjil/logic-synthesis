@@ -53,6 +53,14 @@ architecture rtl of audio_codec_model is
   signal aud_lrclk_in_last : std_logic := '0';
   -- Counter
   signal bit_counter       : integer;
+refactor: rename FSM states for clarity
+
+wait_for_input -> idle
+read_left -> capture_left
+read_right -> capture_right
+
+No functional changes.
+
 
 begin
   -- Synchronous process for state machine that models the audio process
